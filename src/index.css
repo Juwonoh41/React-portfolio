@@ -169,10 +169,16 @@ main {
   justify-content: center;
 }
 
-#trivia{
-  background-image: url("triviaQuiz.png");
+#project_3{
+  background-image: url("91551504-1D75-4D60-BEA9-638FB2FC8C33.jpeg");
   background-size:100%;
 }
+
+#project_2{
+  background-image: url("ABF68B99-D8CA-4798-9BB8-685AF3C23750.jpeg");
+  background-size:100%;
+}
+
 
 #weather-dashboard{
   background-image: url("Image\ 1-9-22\ at\ 10.46\ AM.jpg");
@@ -183,6 +189,12 @@ main {
   background-image: url("Screen\ Shot\ 2022-01-09\ at\ 10.54.44\ AM.png");
   background-size:100%;
 }
+
+#Employee_Management{
+  background-image: url("BEBC385C-A4FD-47D5-930A-0FA0C7506926.jpeg");
+  background-size:100%;
+}
+
 .flex-item {
   border: 5px solid var(--secondary);
   background-color: var(--primary);
